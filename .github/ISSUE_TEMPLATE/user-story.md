@@ -7,14 +7,6 @@ assignees: ''
 
 ---
 
----
-name: " User Story"
-about: Template for user stories
-title: ''
-labels: ''
-assignees: ''
-
----
 
 **As a** [role]  
  **I need** [function]  
